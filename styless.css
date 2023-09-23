@@ -1,0 +1,24 @@
+*{
+    font-family: 'Roboto';
+}
+img{
+    width: 100%;
+    height: 250px;
+    padding: 1%;
+
+}
+
+.card{
+    border: 0cap;
+    margin-top: 4%;
+    width: 400px;
+    justify-content: center;
+    
+
+}
+.card-body{
+    justify-content: space-between;
+}
+.card-body2{
+    text-align: justify;
+}
